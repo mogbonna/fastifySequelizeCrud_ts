@@ -36,12 +36,11 @@ This is a simple CRUD API built using Fastify, Sequelize, and TypeScript, with P
 Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
+
    ```bash
    https://github.com/mogbonna/fastifySequelizeCrud_ts.git
    cd fastifySequelizeCrud_ts
    ```
-
-````
 
 2. **Install dependencies**:
 
@@ -180,4 +179,3 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 ## License
 
 This project is licensed under the MIT License
-````
