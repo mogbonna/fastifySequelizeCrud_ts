@@ -1,6 +1,3 @@
-Here's a detailed README for your Fastify CRUD API using Sequelize and TypeScript. You can customize it further if needed!
-
-````markdown
 # Fastify CRUD API with Sequelize and TypeScript
 
 This is a simple CRUD API built using Fastify, Sequelize, and TypeScript, with PostgreSQL as the database. The API allows you to manage users, providing endpoints to create, read, update, and delete user records.
@@ -40,9 +37,10 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/fastify-sequelize-crud.git
-   cd fastify-sequelize-crud
+   https://github.com/mogbonna/fastifySequelizeCrud_ts.git
+   cd fastifySequelizeCrud_ts
    ```
+
 ````
 
 2. **Install dependencies**:
@@ -181,4 +179,5 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
+````
